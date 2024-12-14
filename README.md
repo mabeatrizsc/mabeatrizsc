@@ -10,5 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabeatrizsc&langs_count=7&theme=dracula)
 
-
 ![M GitHub stats](https://github-readme-stats.vercel.app/api?username=mabeatrizsc&show_icons=true&theme=dracula)
